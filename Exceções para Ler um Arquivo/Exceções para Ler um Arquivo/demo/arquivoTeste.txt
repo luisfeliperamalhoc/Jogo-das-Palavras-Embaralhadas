@@ -1,0 +1,4 @@
+nome -> Eduardo
+sobrenome -> Guerra
+idade -> 35
+profissao -> Engenheiro
